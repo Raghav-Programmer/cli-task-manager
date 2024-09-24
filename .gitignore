@@ -1,0 +1,22 @@
+# C++ compiled files
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+
+# C++ precompiled headers
+*.gch
+*.pch
+
+# C++ generated files
+*.d
+*.so
+*.lo
+
+# Visual Studio Code specific files
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
